@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Documents\\Game Project\\Horror Maze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{938B9561-C8E4-ED28-3518-9CCE4FDE5925}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Maze\\assets\\basichorrorgameassets\\scripts\\usechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938B9561-C8E4-ED28-3518-9CCE4FDE5925}|Assembly-CSharp.csproj|solutionrelative:assets\\basichorrorgameassets\\scripts\\usechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938B9561-C8E4-ED28-3518-9CCE4FDE5925}|Assembly-CSharp.csproj|C:\\Users\\acer\\Documents\\Game Project\\Horror Maze\\assets\\basichorrorgameassets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938B9561-C8E4-ED28-3518-9CCE4FDE5925}|Assembly-CSharp.csproj|solutionrelative:assets\\basichorrorgameassets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938B9561-C8E4-ED28-3518-9CCE4FDE5925}|Assembly-CSharp.csproj|c:\\users\\acer\\documents\\game project\\horror maze\\assets\\basichorrorgameassets\\scripts\\playercasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938B9561-C8E4-ED28-3518-9CCE4FDE5925}|Assembly-CSharp.csproj|solutionrelative:assets\\basichorrorgameassets\\scripts\\playercasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938B9561-C8E4-ED28-3518-9CCE4FDE5925}|Assembly-CSharp.csproj|c:\\users\\acer\\documents\\game project\\horror maze\\assets\\basichorrorgameassets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938B9561-C8E4-ED28-3518-9CCE4FDE5925}|Assembly-CSharp.csproj|solutionrelative:assets\\basichorrorgameassets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerCasting.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Maze\\Assets\\BasicHorrorGameAssets\\Scripts\\PlayerCasting.cs",
+              "RelativeDocumentMoniker": "Assets\\BasicHorrorGameAssets\\Scripts\\PlayerCasting.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Maze\\Assets\\BasicHorrorGameAssets\\Scripts\\PlayerCasting.cs",
+              "RelativeToolTip": "Assets\\BasicHorrorGameAssets\\Scripts\\PlayerCasting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:33:16.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Maze\\Assets\\BasicHorrorGameAssets\\Scripts\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\BasicHorrorGameAssets\\Scripts\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Maze\\Assets\\BasicHorrorGameAssets\\Scripts\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\BasicHorrorGameAssets\\Scripts\\EnemyController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwIEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T07:27:25.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Maze\\Assets\\BasicHorrorGameAssets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\BasicHorrorGameAssets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Maze\\Assets\\BasicHorrorGameAssets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\BasicHorrorGameAssets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T05:40:36.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UseChest.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\Game Project\\Horror Maze\\Assets\\BasicHorrorGameAssets\\Scripts\\UseChest.cs",
+              "RelativeDocumentMoniker": "Assets\\BasicHorrorGameAssets\\Scripts\\UseChest.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\Game Project\\Horror Maze\\Assets\\BasicHorrorGameAssets\\Scripts\\UseChest.cs",
+              "RelativeToolTip": "Assets\\BasicHorrorGameAssets\\Scripts\\UseChest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T05:31:33.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
