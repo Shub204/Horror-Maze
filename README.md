@@ -26,7 +26,7 @@ A first-person horror maze game developed using Unity and C#. Players must explo
 ## 🚀 Play the Game
 
 You can download and play the final PC build on **Itch.io**:  
-[](https://not-soshub.itch.io/horror-maze)
+[https://not-soshub.itch.io/horror-maze](https://not-soshub.itch.io/horror-maze)
 
 ---
 
